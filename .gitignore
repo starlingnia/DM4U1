@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+
+# Large binary data configurations
+data/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+.ropeproject/
